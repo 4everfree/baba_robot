@@ -1,0 +1,57 @@
+
+3 января 2019 г. 18:46:55
+Error Message: Индекс и длина должны указывать на позицию в строке.
+Имя параметра: length
+Error StackTrace:    в System.String.Substring(Int32 startIndex, Int32 length)
+   в ZelvParser.Text.Frequency(String text) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Text.cs:строка 198
+   в ZelvParser.Parsing.ParseTextFromFile(String source) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Parsing.cs:строка 349
+   в ZelvParser.Program.TxtFile() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 152
+   в ZelvParser.Program.New() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 114
+   в ZelvParser.Program.Main(String[] args) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 94
+Error Source: mscorlib
+Error Base Exception: System.ArgumentOutOfRangeException: Индекс и длина должны указывать на позицию в строке.
+Имя параметра: length
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в ZelvParser.Text.Frequency(String text) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Text.cs:строка 198
+   в ZelvParser.Parsing.ParseTextFromFile(String source) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Parsing.cs:строка 349
+   в ZelvParser.Program.TxtFile() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 152
+   в ZelvParser.Program.New() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 114
+   в ZelvParser.Program.Main(String[] args) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 94
+
+3 января 2019 г. 18:47:19
+Error Message: Индекс и длина должны указывать на позицию в строке.
+Имя параметра: length
+Error StackTrace:    в System.String.Substring(Int32 startIndex, Int32 length)
+   в ZelvParser.Text.Frequency(String text) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Text.cs:строка 198
+   в ZelvParser.Parsing.ParseTextFromFile(String source) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Parsing.cs:строка 349
+   в ZelvParser.Program.TxtFile() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 152
+   в ZelvParser.Program.New() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 114
+   в ZelvParser.Program.Main(String[] args) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 94
+Error Source: mscorlib
+Error Base Exception: System.ArgumentOutOfRangeException: Индекс и длина должны указывать на позицию в строке.
+Имя параметра: length
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в ZelvParser.Text.Frequency(String text) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Text.cs:строка 198
+   в ZelvParser.Parsing.ParseTextFromFile(String source) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Parsing.cs:строка 349
+   в ZelvParser.Program.TxtFile() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 152
+   в ZelvParser.Program.New() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 114
+   в ZelvParser.Program.Main(String[] args) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 94
+
+3 января 2019 г. 18:48:05
+Error Message: Индекс и длина должны указывать на позицию в строке.
+Имя параметра: length
+Error StackTrace:    в System.String.Substring(Int32 startIndex, Int32 length)
+   в ZelvParser.Text.Frequency(String text) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Text.cs:строка 198
+   в ZelvParser.Parsing.ParseTextFromFile(String source) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Parsing.cs:строка 349
+   в ZelvParser.Program.TxtFile() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 152
+   в ZelvParser.Program.New() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 114
+   в ZelvParser.Program.Main(String[] args) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 94
+Error Source: mscorlib
+Error Base Exception: System.ArgumentOutOfRangeException: Индекс и длина должны указывать на позицию в строке.
+Имя параметра: length
+   в System.String.Substring(Int32 startIndex, Int32 length)
+   в ZelvParser.Text.Frequency(String text) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Text.cs:строка 198
+   в ZelvParser.Parsing.ParseTextFromFile(String source) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Parsing.cs:строка 349
+   в ZelvParser.Program.TxtFile() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 152
+   в ZelvParser.Program.New() в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 114
+   в ZelvParser.Program.Main(String[] args) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Program.cs:строка 94

@@ -1,0 +1,15 @@
+
+9 января 2019 г. 3:58:40
+Error Message: Неожиданный EOF или 0 байт из транспортного потока.
+Error StackTrace:    в System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в Amazon.Runtime.Internal.Util.CachingWrapperStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.InternalCopyTo(Stream destination, Int32 bufferSize)
+   в System.IO.Stream.CopyTo(Stream destination)
+   в ZelvParser.Polly.SaveAudioFile(SynthesizeSpeechResponse resp, String audio_file_path) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Polly.cs:строка 488
+Error Source: System
+Error Base Exception: System.IO.IOException: Неожиданный EOF или 0 байт из транспортного потока.
+   в System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   в Amazon.Runtime.Internal.Util.CachingWrapperStream.Read(Byte[] buffer, Int32 offset, Int32 count)
+   в System.IO.Stream.InternalCopyTo(Stream destination, Int32 bufferSize)
+   в System.IO.Stream.CopyTo(Stream destination)
+   в ZelvParser.Polly.SaveAudioFile(SynthesizeSpeechResponse resp, String audio_file_path) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Polly.cs:строка 488

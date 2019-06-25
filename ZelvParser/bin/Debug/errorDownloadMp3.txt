@@ -1,0 +1,13 @@
+
+9 января 2019 г. 4:00:24
+Error Message: Доступ к закрытому потоку невозможен.
+Error StackTrace:    в System.IO.Stream.CopyTo(Stream destination)
+   в ZelvParser.Polly.SaveAudioFile(SynthesizeSpeechResponse resp, String audio_file_path) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Polly.cs:строка 496
+   в ZelvParser.Polly.DownloadMp3(String text, String audio_file_path) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Polly.cs:строка 468
+   в ZelvParser.Polly.TextToMp3Creator(KeyValuePair`2 textPart) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Polly.cs:строка 79
+Error Source: mscorlib
+Error Base Exception: System.ObjectDisposedException: Доступ к закрытому потоку невозможен.
+   в System.IO.Stream.CopyTo(Stream destination)
+   в ZelvParser.Polly.SaveAudioFile(SynthesizeSpeechResponse resp, String audio_file_path) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Polly.cs:строка 496
+   в ZelvParser.Polly.DownloadMp3(String text, String audio_file_path) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Polly.cs:строка 468
+   в ZelvParser.Polly.TextToMp3Creator(KeyValuePair`2 textPart) в C:\Users\Administrator\Downloads\111\111\ZelvParser\Polly.cs:строка 79
